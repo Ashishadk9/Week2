@@ -1,0 +1,28 @@
+/Users/aashishadhikari/Desktop/Application Development/week 2/VariablesAndDatatypes/bin/Debug/net10.0/VariablesAndDatatypes
+/Users/aashishadhikari/Desktop/Application Development/week 2/VariablesAndDatatypes/bin/Debug/net10.0/VariablesAndDatatypes.deps.json
+/Users/aashishadhikari/Desktop/Application Development/week 2/VariablesAndDatatypes/bin/Debug/net10.0/VariablesAndDatatypes.runtimeconfig.json
+/Users/aashishadhikari/Desktop/Application Development/week 2/VariablesAndDatatypes/bin/Debug/net10.0/VariablesAndDatatypes.dll
+/Users/aashishadhikari/Desktop/Application Development/week 2/VariablesAndDatatypes/bin/Debug/net10.0/VariablesAndDatatypes.pdb
+/Users/aashishadhikari/Desktop/Application Development/week 2/VariablesAndDatatypes/obj/Debug/net10.0/VariablesAndDatatypes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aashishadhikari/Desktop/Application Development/week 2/VariablesAndDatatypes/obj/Debug/net10.0/VariablesAndDatatypes.AssemblyInfoInputs.cache
+/Users/aashishadhikari/Desktop/Application Development/week 2/VariablesAndDatatypes/obj/Debug/net10.0/VariablesAndDatatypes.AssemblyInfo.cs
+/Users/aashishadhikari/Desktop/Application Development/week 2/VariablesAndDatatypes/obj/Debug/net10.0/VariablesAndDatatypes.csproj.CoreCompileInputs.cache
+/Users/aashishadhikari/Desktop/Application Development/week 2/VariablesAndDatatypes/obj/Debug/net10.0/VariablesAndDatatypes.dll
+/Users/aashishadhikari/Desktop/Application Development/week 2/VariablesAndDatatypes/obj/Debug/net10.0/refint/VariablesAndDatatypes.dll
+/Users/aashishadhikari/Desktop/Application Development/week 2/VariablesAndDatatypes/obj/Debug/net10.0/VariablesAndDatatypes.pdb
+/Users/aashishadhikari/Desktop/Application Development/week 2/VariablesAndDatatypes/obj/Debug/net10.0/VariablesAndDatatypes.genruntimeconfig.cache
+/Users/aashishadhikari/Desktop/Application Development/week 2/VariablesAndDatatypes/obj/Debug/net10.0/ref/VariablesAndDatatypes.dll
+/Users/aashishadhikari/Desktop/Application Development/C#/VariablesAndDatatypes/bin/Debug/net10.0/VariablesAndDatatypes
+/Users/aashishadhikari/Desktop/Application Development/C#/VariablesAndDatatypes/bin/Debug/net10.0/VariablesAndDatatypes.deps.json
+/Users/aashishadhikari/Desktop/Application Development/C#/VariablesAndDatatypes/bin/Debug/net10.0/VariablesAndDatatypes.runtimeconfig.json
+/Users/aashishadhikari/Desktop/Application Development/C#/VariablesAndDatatypes/bin/Debug/net10.0/VariablesAndDatatypes.dll
+/Users/aashishadhikari/Desktop/Application Development/C#/VariablesAndDatatypes/bin/Debug/net10.0/VariablesAndDatatypes.pdb
+/Users/aashishadhikari/Desktop/Application Development/C#/VariablesAndDatatypes/obj/Debug/net10.0/VariablesAndDatatypes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aashishadhikari/Desktop/Application Development/C#/VariablesAndDatatypes/obj/Debug/net10.0/VariablesAndDatatypes.AssemblyInfoInputs.cache
+/Users/aashishadhikari/Desktop/Application Development/C#/VariablesAndDatatypes/obj/Debug/net10.0/VariablesAndDatatypes.AssemblyInfo.cs
+/Users/aashishadhikari/Desktop/Application Development/C#/VariablesAndDatatypes/obj/Debug/net10.0/VariablesAndDatatypes.csproj.CoreCompileInputs.cache
+/Users/aashishadhikari/Desktop/Application Development/C#/VariablesAndDatatypes/obj/Debug/net10.0/VariablesAndDatatypes.dll
+/Users/aashishadhikari/Desktop/Application Development/C#/VariablesAndDatatypes/obj/Debug/net10.0/refint/VariablesAndDatatypes.dll
+/Users/aashishadhikari/Desktop/Application Development/C#/VariablesAndDatatypes/obj/Debug/net10.0/VariablesAndDatatypes.pdb
+/Users/aashishadhikari/Desktop/Application Development/C#/VariablesAndDatatypes/obj/Debug/net10.0/VariablesAndDatatypes.genruntimeconfig.cache
+/Users/aashishadhikari/Desktop/Application Development/C#/VariablesAndDatatypes/obj/Debug/net10.0/ref/VariablesAndDatatypes.dll
